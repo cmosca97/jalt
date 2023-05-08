@@ -7,11 +7,6 @@ import org.junit.jupiter.api.Test;
 class OtherTest {
 
     @Test
-    void testIncrease() {
-        fail("Not yet implemented");
-    }
-    
-    @Test
     void increasePlain() {
         int input = 4;
         int expected = 5;
